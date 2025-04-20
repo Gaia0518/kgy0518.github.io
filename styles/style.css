@@ -1,12 +1,13 @@
 /* paragraph 스타일 지정 */
 
+p.explain {
+    color: coral;
+}
+
 p {
     color: dodgerblue;
 }
 
-p.explain {
-    color: coral;
-}
 /* a 태그를 바꾸는 방법 */
 a {
     color: gainsboro;
